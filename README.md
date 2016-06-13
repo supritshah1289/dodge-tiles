@@ -1,5 +1,4 @@
-# dodge-tiles
-#Beta Version
+# dodge-tiles Beta Version
 #How to play
 1. The game starts once the page is refreshed
 2. Do not touch the blue box to the green lines coming out of random from sides
